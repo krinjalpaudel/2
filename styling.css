@@ -1,0 +1,50 @@
+body {
+    background-color: crimson;
+}
+.hold{
+    border: 1px solid #ff0000;
+    background-color: white;
+    padding:40px 70px;
+    width:550px;
+    height: auto;
+    margin:200px auto;
+    box-shadow: 15px 5px 50px rgb(110, 4, 4), -10px -3px 50px rgb(110, 4, 4);
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading span{
+    text-decoration: underline;
+}
+.form ,.wert ,.button{
+    margin: 20px 0px;
+    border: none;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    width: 80%;
+    text-align: center;
+    }
+.button{
+    padding: 10px;
+    width: 80%;
+    background-image: linear-gradient(rgba(231, 18, 18, 0.973),rgb(163, 13, 13));
+    border: none;
+}
+.or{
+    text-align: center;
+}
+.tweet{
+    padding: 5px;
+    text-decoration: none;
+    background-color: white;
+    border: none;
+}.fb{
+    text-decoration: none; 
+    
+    padding: 5px;
+    
+}
+
+.tweet img ,.fb img{
+    margin-right: 10px;
+
+}
